@@ -12,5 +12,5 @@ python-memcached==1.54
 requests==2.7.0
 #six==1.9.0
 sphinxit==0.3.2
-supervisor==3.1.3
+supervisor==4.0.4
 #tornado==2.4.1
